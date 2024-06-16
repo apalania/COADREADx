@@ -22,7 +22,7 @@ It is currently maintained by:
  - Ashok Palaniappan
 
 License: 
-The code in this repository, including all code samples in the notebooks listed above, is released under the the CC-BY-NC-ND license. Read more at [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode). 
+The code in this repository, including all code samples in the scripts listed above, is released under the BSD 3-Clause License. Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT).
 
 ### For more information
 Contact [Ashok Palaniappan](mailto:apalania@scbt.sastra.edu)
