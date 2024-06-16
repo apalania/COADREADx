@@ -21,5 +21,7 @@ It is currently maintained by:
  - Sangeetha Muthamailselvan
  - Ashok Palaniappan
 
+License: 
+The code in this repository, including all code samples in the notebooks listed above, is released under the the CC-BY-NC-ND license. Read more at [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/3.0/us/legalcode). 
 For more information:
 [Ashok Palaniappan](mailto:apalania@scbt.sastra.edu)
