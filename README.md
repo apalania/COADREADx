@@ -21,7 +21,7 @@ It is currently maintained by:
  - Sangeetha Muthamailselvan
  - Ashok Palaniappan
 
-License: 
+### License 
 The code in this repository, including all code samples in the scripts listed above, is released under the BSD 3-Clause License. Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT).
 
 ### For more information
