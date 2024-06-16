@@ -1,4 +1,5 @@
 # Welcome to COADREADx!
+Our goal is the development of diagnostic and prognostic models (so-called "Software-as-Medical-Devices") for expediting the early-stage detection and risk stratification of colorectal cancer. This is a work in constant progress. 
 
 The following source code is made available here:
 1. Model development
