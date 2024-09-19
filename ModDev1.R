@@ -35,4 +35,4 @@ Whole <- Data_f
 control <- trainControl(method = "repeatedcv", number = 10,repeats= 3,search="grid")
 tuneGrid <- expand.grid(mtry = 2.83, ntree = 500)
 model_Whole <- caret::train(Type~.,data=Data_f,method="rf",tuneGrid=tunegrid,trControl=control)
-saveRDS(model_Whole,file = "model_final.rds")
+saveRDS(model_Whole,file = "Screening_Model.rds")
