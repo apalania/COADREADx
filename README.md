@@ -27,7 +27,7 @@ It is currently maintained by:
 ### License 
 The code in this repository, including all code samples in the scripts listed above, is released under the BSD 3-Clause License. Read more at the [Open Source Initiative](https://opensource.org/licenses/MIT).
 
-###NOTE:
+### NOTE:
 The content of this research code repository (i) is not intended to be a medical device; and (ii) is not intended for clinical use of any kind, including but not limited to diagnosis or prognosis.
 
 ### For more information
