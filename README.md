@@ -1,5 +1,5 @@
-# Welcome to COADREADx!
-The ultimate goal is the development of diagnostic and prognostic models (so-called "Software-as-Medical-Devices") toward expediting the early-stage detection and risk stratification of colorectal cancer. This is a work in constant progress. Please note that the content of this research code repository (i) is not intended to be a medical device; and (ii) is not intended for clinical use of any kind, including but not limited to diagnosis or prognosis.
+# Welcome to COADREADx
+The ultimate goal is the development of diagnostic and prognostic models (so-called "Software-as-Medical-Devices") toward expediting the early-stage detection and risk stratification of colorectal cancer. This is a work in constant progress. Please note that the content of this research code repository is not intended to be a medical device yet, nor ready for clinical use of any kind, including diagnosis or prognosis.
 
 The following source code is made available here:
 1. ModDev1.R: Development of the Screening model for colorectal cancer
