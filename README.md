@@ -5,7 +5,7 @@ The following source code is made available here:
 1. ModDev1.R: Development of the Screening model for colorectal cancer
 2. ScreeningModel_RF_FullData.rds: Screening model object-file (.rds) that could be loaded in R to make predictions on new instances from patient data. The model has been re-trained on the full available data
 3. PrognosticModel.rds: Object-file (.rds) of the developed prognostic model that could be loaded in R for risk predictions on new instances from patient data.
-4. app.R: Shiny app file powering the COADREADx webserver. The models have been included in the webserver for web-accessible predictions.
+4. app.R: Shiny app code for the COADREADx webserver. The models have been included in the webserver for web-accessible predictions.
 
 For the dataset and other supplementary information, please consult:
 [COADREADx on Figshare](https://doi.org/10.6084/m9.figshare.20489211.v4)
