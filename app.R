@@ -14,7 +14,8 @@ library(randomForest)
 options(shiny.maxRequestSize = 1000*1024^2)
 options(
   # whenever there is one account token found, use the cached token
-  gargle_oauth_email = "waterfallsangee@gmail.com",
+  gargle_oauth_email = "apalanialab@gmail.com",
+  # email placeholder
   # specify auth tokens should be stored in a hidden directory ".secrets"
   gargle_oauth_cache = ".secrets"
 )
