@@ -12,11 +12,11 @@ The following source code is made available here:
 For the dataset and other supplementary information, please consult:
 [COADREADx on Figshare](https://doi.org/10.6084/m9.figshare.20489211.v4)
 
-### Webserver
-[COADREADx](https://apalanialab.shinyapps.io/coadreadx/)
-
 ### Citation
 Palaniappan A*, Muthamilselvan S, Sarathi A. COADREADx: A comprehensive algorithmic dissection of colorectal cancer unravels salient biomarkers and actionable insights into its discrete progression. PeerJ. 2024 Oct 28;12:e18347. [doi: 10.7717/peerj.18347](https://peerj.com/articles/18347/). PMID: 39484215; PMCID: PMC11526798.
+
+### Webserver
+[Predictive screening and risk differentiation of colorectal cancer based on gene expression biomarkers / COADREADx](https://apalanialab.shinyapps.io/coadreadx/)
 
 *corresponding author
 
