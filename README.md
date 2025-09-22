@@ -16,7 +16,7 @@ For the dataset and other supplementary information, please consult:
 [COADREADx](https://apalanialab.shinyapps.io/coadreadx/)
 
 ### Citation
-Palaniappan A*, Muthamilselvan S, Sarathi A. COADREADx: A comprehensive algorithmic dissection of colorectal cancer unravels salient biomarkers and actionable insights into its discrete progression. PeerJ. 2024 Oct 28;12:e18347. doi: 10.7717/peerj.18347. PMID: 39484215; PMCID: PMC11526798.
+Palaniappan A*, Muthamilselvan S, Sarathi A. COADREADx: A comprehensive algorithmic dissection of colorectal cancer unravels salient biomarkers and actionable insights into its discrete progression. PeerJ. 2024 Oct 28;12:e18347. [doi: 10.7717/peerj.18347](https://peerj.com/articles/18347/). PMID: 39484215; PMCID: PMC11526798.
 
 *corresponding author
 
